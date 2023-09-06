@@ -1,0 +1,1 @@
+Create simple rock paper scissors game in the browser console window using javascript.
